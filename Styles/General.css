@@ -48,5 +48,7 @@
 @media (max-width: 720px) {
   .main-grid {
     grid-template-columns: 1fr;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
